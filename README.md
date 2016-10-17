@@ -1,0 +1,1 @@
+# drupal-theme-alpha-test
