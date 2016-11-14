@@ -1,4 +1,4 @@
 name= drupal-theme-alpha-test
 version = 1.0.1
 description = Super description
-
+base theme = seven
